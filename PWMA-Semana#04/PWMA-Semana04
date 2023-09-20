@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerenciamento de Finanças Pessoais</title>
+</head>
+<body>
+    <header>
+        <h1>Gerenciamento de Finanças Pessoais</h1>
+        <nav>
+            <ul>
+                <li><a href="#planos">Planos</a></li>
+                <li><a href="#gerenciamento-receitas">Gerenciamento de Receitas</a></li>
+                <li><a href="#analise-tendencias">Análise de Tendências</a></li>
+                <li><a href="#tipos-investimentos">Tipos de Investimentos e seus Riscos</a></li>
+                <li><a href="#como-funciona">Como Funciona?</a></li>
+                <li><a href="#integrantes">Integrantes</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="planos">
+        <h2>Planos</h2>
+        <p>Um site de gestão de finanças pessoais é uma plataforma online projetada para ajudar os indivíduos a controlar e otimizar suas finanças. Ele oferece uma variedade de ferramentas e recursos para ajudar os usuários a acompanhar seus gastos, receitas, investimentos e metas financeiras de forma organizada e eficaz.</p>
+    </section>
+
+    <section id="gerenciamento-receitas">
+        <h2>Gerenciamento de Receitas</h2>
+        <p>Os usuários podem inserir suas fontes de renda e monitorar como essas receitas contribuem para suas finanças gerais.</p>
+    </section>
+
+    <section id="analise-tendencias">
+        <h2>Análise de Tendências</h2>
+        <p>A plataforma pode gerar gráficos e relatórios para ajudar os usuários a entenderem padrões de gastos ao longo do tempo, permitindo ajustes e melhorias nas finanças pessoais.</p>
+    </section>
+
+    <section id="tipos-investimentos">
+        <h2>Tipos de Investimentos e seus Riscos</h2>
+        <table>
+            <caption>Perfil do Investidor e Onde Seu Dinheiro Será Investido</caption>
+            <tr>
+                <th>Perfil do Investidor</th>
+                <th>Riscos</th>
+                <th>Onde Seu Dinheiro Será Investido</th>
+            </tr>
+            <tr>
+                <td>Conservador</td>
+                <td>Baixo</td>
+                <td>Tesouro Selic, CDB, etc</td>
+            </tr>
+            <tr>
+                <td>Moderado</td>
+                <td>Médio</td>
+                <td>Ações, Fundos Imobiliários</td>
+            </tr>
+            <tr>
+                <td>Agressivo</td>
+                <td>Alto</td>
+                <td>Criptomoeda</td>
+            </tr>
+        </table>
+    </section>
+
+    <section id="como-funciona">
+        <h2>Como Funciona?</h2>
+        <ol>
+            <li>Agende uma reunião conosco</li>
+            <li>Indicamos o melhor planejamento para você</li>
+            <li>A primeira reunião é gratuita</li>
+        </ol>
+    </section>
+
+    <section id="integrantes">
+        <h2>Integrantes</h2>
+        <ul>
+            <li>Guilherme Barbosa Rezende Dias</li>
+            <li>Weskley Oliveira</li>
+            <li>Prof. Verissim</li>
+        </ul>
+    </section>
+</body>
+</html>
+
